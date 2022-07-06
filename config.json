@@ -1,0 +1,11 @@
+{
+	"sql": {
+		"host": "localhost",
+		"user": "",
+		"password": "",
+		"database": ""
+	},
+	
+	"token":"OTY3NzUzNTc1MzkwNDA0Njg5.YmU4wA._eDrQ7Fpspy1Rvtux1dfIESegdk",
+	"prefix":"!"
+}
